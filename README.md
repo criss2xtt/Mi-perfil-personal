@@ -66,4 +66,4 @@ En este repositorio se da a conocer mis datos personales e información sobre mi
 <p>Ádemas quiero convertirme en un excelente programador para crear sitios web, aprender mucho más sobre tecnologia, y poder conseguir un empleo que me guste relacionado a la carrera</p>
 </body>
 </html>
-[tarea.tcs.informacion.ZIP.zip](https://github.com/user-attachments/files/21847136/tarea.tcs.informacion.ZIP.zip)
+
